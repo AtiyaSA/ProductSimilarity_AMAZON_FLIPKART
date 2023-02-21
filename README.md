@@ -1,6 +1,6 @@
 # ProductSimilarity_AMAZON_FLIPKART
 
-This code is a Python script for web scraping data from Amazon and Flipkart websites for a list of products specified in an Excel file.
+This code is a Python script for web scraping data from Amazon and Flipkart websites for a list of similar products specified in an Excel file.
 
 The script uses the Pandas library to read data from the "Scrappingproject.xlsx" file, which contains product titles and Amazon URLs.
 
