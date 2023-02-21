@@ -24,7 +24,7 @@ To run this script, you need to install the following Python libraries:
 5. Pillow
 6. ImageHash
 
-You also need to have Google Chrome browser installed on your machine.
+Google Chrome browser must be installed in the machine.
 
 How to Use
 To use this script, you need to provide the following input:
